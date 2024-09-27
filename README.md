@@ -44,7 +44,7 @@ Here’s what Enigma has to offer:
 
 - Outputs: Efficiency ratings and cost savings.
 
-### 2️⃣ Carbon Footprint Calculator 🌍 
+### 2️⃣ Individualised Carbon Footprint Calculator 🌍 
 
 - Estimate your carbon emissions based on lifestyle factors and energy usage, and receive actionable steps to reduce your environmental footprint.
 
@@ -66,13 +66,13 @@ Here’s what Enigma has to offer:
 
 ### 4️⃣ Power Plant Efficiency & Cooling System Model 🔌❄️ 
 
-- Get data-driven recommendations for optimizing power plant performance and cooling systems, ensuring efficiency in energy generation.
+- Get data-driven recommendations for 'optimizing power plant performance and cooling systems, ensuring efficiency in energy generation.
 
-- User Inputs: Temperature, pressure, humidity, and exhaust vacuum.
+- User Inputs: Type of Power Plant, Ambient Temperature, Ambient Pressure, Relative Humidity, Exhaust vacuum and Actual Energy Value.
 
 - Model: Multiple Linear Regression (MLR).
 
-- Outputs: Efficiency ratings and tailored cooling system suggestions.
+- Outputs: Predicted Energy Output and Efficiency Rating along with efficient recommendations and tailored cooling system suggestions.
 
 ### 5️⃣ Industry Energy Source Optimizer 🏭
 
@@ -80,7 +80,7 @@ Here’s what Enigma has to offer:
 
 - User Inputs: Energy consumption data, renewable vs. non-renewable usage.
 
-- Model: Genetic Algorithm (DEAP).
+- Model: Genetic Algorithm `deap`.
 
 - Outputs: Optimal energy solutions, cost-saving insights, and environmental impact assessments.
 
@@ -147,3 +147,5 @@ For further details about the models, algorithms, and technologies used in Enigm
 👤 Jiss Sabu Varghese
 
 👤 Shreya Ghosh
+
+
