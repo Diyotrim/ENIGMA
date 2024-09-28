@@ -1,6 +1,11 @@
 # 🌍 Enigma - Personalized Energy Hub ⚡
 Welcome to Enigma, a dynamic platform designed to educate and empower individuals, businesses, and industries in managing their energy consumption efficiently. Enigma aligns with the United Nations Sustainable Development Goal (SDG) 7, promoting access to affordable, reliable, sustainable, and modern energy for all. Our mission is to help you make informed energy decisions that enhance efficiency, reduce costs, and minimize environmental impact.
 
+
+https://github.com/user-attachments/assets/89205cc3-333e-4274-8fef-bd1eb7433728
+
+
+
 ## Why choose "Enigma" as our website name? 🧩
 The name "Enigma" was chosen because it reflects the complex and often mysterious nature of energy management, much like how Alan Turing cracked the Enigma code. Energy consumption and sustainability are intricate puzzles that many individuals, businesses, and organizations struggle to fully understand. Our platform, Enigma - Personalized Energy Hub , seeks to demystify these complexities and provide clear, actionable insights.
 Furthermore, aligning with the United Nations' Sustainable Development Goal (SDG) 7—ensuring access to affordable, reliable, sustainable, and modern energy for all—our platform educates users about energy efficiency and conservation. Just as Turing’s work on Enigma changed the course of history, our goal is to empower users to make informed energy choices that promote sustainability and contribute to global conservation efforts.
@@ -11,9 +16,7 @@ With the rising global energy demands, managing energy consumption is more criti
 ## 🌟 Key Features
 Here’s what Enigma has to offer:
 
-🔹 **Energy Efficiency Tools ⚙️:** Evaluate and optimize the efficiency of your household devices or industrial equipment.
-
-🔹 **Electricity Price Prediction 📈:** Accurately predict future energy costs based on your usage patterns, helping you plan better.
+🔹 **Energy Efficiency ⚙️ & Price Prediction 💸:** Optimize device efficiency and predict energy costs for smarter planning.
 
 🔹 **Carbon Footprint Calculator 🌱:** Track and understand your carbon footprint with personalized insights on how to reduce your impact.
 
@@ -34,15 +37,19 @@ Here’s what Enigma has to offer:
 
 ## 🔧 Models & Features Breakdown
 
-### 1️⃣ Device Efficiency Assessment 🛠️ 
+### 1️⃣ Device Efficiency Assessment 🛠️ & Electricity Price Prediction 💡 
 
-- Analyze your device's efficiency based on type, age, and usage. The model provides personalized feedback to help you reduce energy consumption.
+- Analyze device efficiency based on type, age, and usage, while also predicting future electricity prices to help optimize energy consumption and spending.
 
-- User Inputs: Device type, brand, usage hours, malfunction history.
+- User Inputs: Device type, brand, usage hours, malfunction history, energy usage data.
 
-- Model: Random Forest Classifier.
+- Models: Random Forest Classifier, Gradient Boost, Random Forest.
 
-- Outputs: Efficiency ratings and cost savings.
+- Outputs: Efficiency ratings, cost savings, predicted electricity prices, and optimization tips.
+
+https://github.com/user-attachments/assets/5ff19491-6057-4db2-8711-5869997b91b8
+
+
 
 ### 2️⃣ Individualised Carbon Footprint Calculator 🌍 
 
@@ -54,17 +61,11 @@ Here’s what Enigma has to offer:
 
 - Outputs: Carbon emissions with personalized recommendations.
 
-### 3️⃣ Electricity Price Prediction 💡
+https://github.com/user-attachments/assets/47c80de8-0d42-427e-97d3-c8e8fbac47e2
 
-- Get a prediction of future electricity prices to optimize your energy spending.
 
-- User Inputs: Energy usage data.
 
-- Model: Gradient Boost, Random Forest.
-
-- Outputs: Predicted electricity prices with optimization tips.
-
-### 4️⃣ Power Plant Efficiency & Cooling System Model 🔌❄️ 
+### 3️⃣ Power Plant Efficiency & Cooling System Model 🔌❄️ 
 
 - Get data-driven recommendations for 'optimizing power plant performance and cooling systems, ensuring efficiency in energy generation.
 
@@ -74,7 +75,7 @@ Here’s what Enigma has to offer:
 
 - Outputs: Predicted Energy Output and Efficiency Rating along with efficient recommendations and tailored cooling system suggestions.
 
-### 5️⃣ Industry Energy Source Optimizer 🏭
+### 4️⃣ Industry Energy Source Optimizer 🏭
 
 - Designed for industries, this model helps optimize energy consumption by comparing renewable and non-renewable sources based on costs, location, and energy efficiency.
 
@@ -84,13 +85,21 @@ Here’s what Enigma has to offer:
 
 - Outputs: Optimal energy solutions, cost-saving insights, and environmental impact assessments.
 
-### 6️⃣ Chatbot 💬
+
+https://github.com/user-attachments/assets/e41c6d57-2e40-471c-ac09-7d834252650d
+
+
+### 5️⃣ Chatbot 💬
 
 - Our AI-powered chatbot offers real-time guidance on energy-saving tips, FAQs, and general platform navigation.
 
 - Capabilities: Symptom logging, real-time interactions, energy tips.
 
-### 7️⃣ Live Trends & Interactive Dashboards 📊
+
+https://github.com/user-attachments/assets/d399d14e-7b90-40a2-aed1-2c30d9d62265
+
+
+### 6️⃣ Live Trends & Interactive Dashboards 📊
 
 - Monitor real-time data across various sectors—household, power plants, and industries. The dashboards provide a dynamic and user-friendly interface to track energy consumption, efficiency, and trends.
 
@@ -98,13 +107,21 @@ Here’s what Enigma has to offer:
 
 - Outputs: Live trend visualizations with interactive insights on energy consumption.
 
-### 8️⃣ Blogs with Summary & FAQ Models 📖
+
+https://github.com/user-attachments/assets/a4f93bd5-7bf5-4bd3-9579-5dfb527497a7
+
+
+### 7️⃣ Blogs with Summary & FAQ Models 📖
 
 - Access well-researched articles on energy topics. Auto-generated summaries and FAQ models make it easy to extract key information quickly.
 
 - Model: LLaMA 3 for summarization and FAQ generation.
 
 - Features: Summarize key points and access FAQs for quicker insights.
+
+
+https://github.com/user-attachments/assets/63b76f71-eba3-4b57-bbdc-a8a7bfac0535
+
 
 ## 🛠️ System Design Overview
 Here’s a detailed breakdown of the technologies powering Enigma:
@@ -138,8 +155,12 @@ Here’s a detailed breakdown of the technologies powering Enigma:
 
 - _LLM (Large Language Models) 🧠:_ The chatbot is built using an advanced LLM (e.g., LLaMA 3), which powers the FAQ and Summary functionalities. Users can read blog posts with auto-generated Summaries or explore frequently asked questions (FAQs) for quick insights into energy-related topics.
 
+- _User Interface (UI) 🎨:_ The chatbot’s user interface has been developed using Chainlit for a seamless and intuitive user experience.
+
 ## 🗃️ Documentation
 For further details about the models, algorithms, and technologies used in Enigma, you can check our comprehensive project report linked below:
+- Find all the details here : [Web Project_Report.pdf](https://github.com/user-attachments/files/17174761/Web.Project_Report.pdf)
+
 
 ## ❤️ Made with Dedication by:
 👤 Diyotrim Maitra
