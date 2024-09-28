@@ -1,6 +1,31 @@
 # 🌍 Enigma - Personalized Energy Hub ⚡
 Welcome to Enigma, a dynamic platform designed to educate and empower individuals, businesses, and industries in managing their energy consumption efficiently. Enigma aligns with the United Nations Sustainable Development Goal (SDG) 7, promoting access to affordable, reliable, sustainable, and modern energy for all. Our mission is to help you make informed energy decisions that enhance efficiency, reduce costs, and minimize environmental impact.
 
+<table align="center">
+    <tr>
+        <td><hr style="border: 1px solid #ccc; width: 80%; margin: 10px 0;"/></td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />&nbsp;&nbsp;
+            <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" />&nbsp;&nbsp;
+            <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" />&nbsp;&nbsp;
+            <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" />&nbsp;&nbsp;
+            <img height="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" />&nbsp;&nbsp;
+            <img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />&nbsp;&nbsp;
+            <img height="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />&nbsp;&nbsp;
+            <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" />&nbsp;&nbsp;
+            <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" />
+        </td>
+    </tr>
+    <tr>
+        <td><hr style="border: 1px solid #ccc; width: 80%; margin: 10px 0;"/></td>
+    </tr>
+</table>
+
+
+
+
 
 https://github.com/user-attachments/assets/89205cc3-333e-4274-8fef-bd1eb7433728
 
