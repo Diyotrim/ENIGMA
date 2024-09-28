@@ -188,10 +188,12 @@ For further details about the models, algorithms, and technologies used in Enigm
 
 
 ## ❤️ Made with Dedication by:
-👤 Diyotrim Maitra
 
-👤 Jiss Sabu Varghese
+- 👨‍💻 Diyotrim Maitra
+  
+- 👨‍💻 Jiss Sabu Varghese
+  
+- 👩‍💻 Shreya Ghosh
 
-👤 Shreya Ghosh
 
 
