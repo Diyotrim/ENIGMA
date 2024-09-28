@@ -1,5 +1,5 @@
-# 🌍 Enigma - Personalized Energy Hub ⚡
-Welcome to Enigma, a dynamic platform designed to educate and empower individuals, businesses, and industries in managing their energy consumption efficiently. Enigma aligns with the United Nations Sustainable Development Goal (SDG) 7, promoting access to affordable, reliable, sustainable, and modern energy for all. Our mission is to help you make informed energy decisions that enhance efficiency, reduce costs, and minimize environmental impact.
+# 🌍 ENIGMA - Personalized Energy Hub ⚡
+Welcome to ENIGMA, a dynamic platform designed to educate and empower individuals, businesses, and industries in managing their energy consumption efficiently. Enigma aligns with the United Nations Sustainable Development Goal (SDG) 7, promoting access to affordable, reliable, sustainable, and modern energy for all. Our mission is to help you make informed energy decisions that enhance efficiency, reduce costs, and minimize environmental impact.
 
 <table align="center">
     <tr>
