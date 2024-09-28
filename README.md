@@ -41,24 +41,32 @@ With the rising global energy demands, managing energy consumption is more criti
 ## 🌟 Key Features
 Here’s what Enigma has to offer:
 
-🔹 **Energy Efficiency ⚙️ & Price Prediction 💸:** Optimize device efficiency and predict energy costs for smarter planning.
+🔹 **Energy Efficiency ⚙️ & Price Prediction 💸:** 
+   Optimize device efficiency and predict energy costs for smarter planning.
 
-🔹 **Carbon Footprint Calculator 🌱:** Track and understand your carbon footprint with personalized insights on how to reduce your impact.
+🔹 **Carbon Footprint Calculator 🌱:** 
+   Track and understand your carbon footprint with personalized insights on how to reduce your impact.
 
-🔹 **Power Plant & Cooling System Evaluator 🔋❄️:** Tailored recommendations to optimize thermoelectric power plants and cooling systems.
+🔹 **Power Plant & Cooling System Evaluator 🔋❄️:** 
+   Tailored recommendations to optimize thermoelectric power plants and cooling systems.
 
 🔹 **Interactive Dashboards 📉📊:**
-- Household Dashboard: Monitor home energy usage and efficiency.
-- Power Plants Dashboard: Insights into energy generation metrics for power plants.
-- Industry Dashboard: Track global energy consumption and renewable energy usage in industries.
+   - **Household Dashboard:** Monitor home energy usage and efficiency.
+   - **Power Plants Dashboard:** Insights into energy generation metrics for power plants.
+   - **Industry Dashboard:** Track global energy consumption and renewable energy usage in industries.
 
-🔹 **Industry Energy Source Optimizer 🏭:** Compare renewable and non-renewable energy options for industries based on cost and efficiency.
+🔹 **Industry Energy Source Optimizer 🏭:** 
+   Compare renewable and non-renewable energy options for industries based on cost and efficiency.
 
-🔹 **Live Trends Visualizations 📊:** View real-time energy metrics and trends, helping you make data-driven decisions.
+🔹 **Live Trends Visualizations 📊:** 
+   View real-time energy metrics and trends, helping you make data-driven decisions.
 
-🔹 **Chatbot 🤖:** Get instant guidance on energy-saving tips and platform navigation with our AI-powered chatbot.
+🔹 **Chatbot 🤖:** 
+   Get instant guidance on energy-saving tips and platform navigation with our AI-powered chatbot.
 
-🔹 **Blogs with Summary & FAQ Models 📝:** Explore informative blogs featuring auto-generated summaries and FAQs for deeper insights.
+🔹 **Blogs with Summary & FAQ Models 📝:** 
+   Explore informative blogs featuring auto-generated summaries and FAQs for deeper insights.
+
 
 ## 🔧 Models & Features Breakdown
 
