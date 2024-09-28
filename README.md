@@ -56,7 +56,7 @@ Here’s what Enigma has to offer:
    - **Industry Dashboard:** Track global energy consumption and renewable energy usage in industries.
 
 ⭐ **Industry Energy Source Optimizer 🏭:** 
-   - Compare renewable and non-renewable energy options for industries based on cost and efficiency.
+   - Compare renewable and non-renewable energy options for industries based on budget constraints and energy requirements.
 
 ⭐ **Live Trends Visualizations 📊:** 
    - View real-time energy metrics and trends, helping you make data-driven decisions.
