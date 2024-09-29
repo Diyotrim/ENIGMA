@@ -41,7 +41,7 @@ With the rising global energy demands, managing energy consumption is more criti
 ## 🌟 Key Features
 Here’s what Enigma has to offer:
 
-⭐ **Energy Efficiency ⚙️ & Price Prediction 💸:** 
+⭐ **Energy Efficiency ⚙️ & Electricity Price Prediction 💸:** 
    - Optimize device efficiency and predict energy costs for smarter planning.
 
 ⭐ **Carbon Footprint Calculator 🌱:** 
@@ -58,8 +58,8 @@ Here’s what Enigma has to offer:
 ⭐ **Industry Energy Source Optimizer 🏭:** 
    - Compare renewable and non-renewable energy options for industries based on budget constraints and energy requirements.
 
-⭐ **Live Trends Visualizations 📊:** 
-   - View real-time energy metrics and trends, helping you make data-driven decisions.
+⭐ **Login Trends Visualizations 📊:** 
+   - Get access to your Login Trends.
 
 ⭐ **Chatbot 🤖:** 
    - Get instant guidance on energy-saving tips and platform navigation with our AI-powered chatbot.
@@ -107,6 +107,10 @@ https://github.com/user-attachments/assets/47c80de8-0d42-427e-97d3-c8e8fbac47e2
 
 - Outputs: Predicted Energy Output and Efficiency Rating along with efficient recommendations and tailored cooling system suggestions.
 
+
+https://github.com/user-attachments/assets/f6ab13d5-8b45-4c47-aa8f-3f674f822e18
+
+
 ### 4️⃣ Industry Energy Source Optimizer 🏭
 
 - Designed for industries, this model helps optimize energy consumption by comparing renewable and non-renewable sources based on costs, location, and energy efficiency.
@@ -131,7 +135,7 @@ https://github.com/user-attachments/assets/e41c6d57-2e40-471c-ac09-7d834252650d
 https://github.com/user-attachments/assets/d399d14e-7b90-40a2-aed1-2c30d9d62265
 
 
-### 6️⃣ Live Trends & Interactive Dashboards 📊
+### 6️⃣ Login Trends & Interactive Dashboards 📊
 
 - Monitor real-time data across various sectors—household, power plants, and industries. The dashboards provide a dynamic and user-friendly interface to track energy consumption, efficiency, and trends.
 
